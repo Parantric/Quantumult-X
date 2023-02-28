@@ -12,8 +12,8 @@
 
 let subscriptions = [
     {
-        link: "Nexitally",
-        name: "取个名字2",
+        link: "复制自己的订阅链接",
+        name: "Nexitally",
         icon: "https://raw.githubusercontent.com/Orz-3/mini/master/Nexitally.png"
     },
 ];
