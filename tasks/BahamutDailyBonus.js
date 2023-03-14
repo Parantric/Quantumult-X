@@ -40,10 +40,10 @@ cron "0 8 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/mas
 // 把兼容函数定义到$中, 以便统一调用
 const $ = new Env('巴哈姆特');
 
-// 用户名
+// 用户名，如果不能自动获取用户名，可将 YourUserName 替换成自己的用户名
 $.uid = $.getdata('@ND_BAHA.ID') || 'YourUserName';
 
-// 用户密码
+// 用户密码，如果不能自动获取用户名，可将 YourUserPassword 替换成自己的密码
 $.pwd = $.getdata('@ND_BAHA.PW') || 'YourUserPassword';
 
 // 两步验证Token, 16位数, 未设置请保持默认
