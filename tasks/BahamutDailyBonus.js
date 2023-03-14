@@ -27,7 +27,12 @@ cron "0 8 * * *" script-path=https://raw.githubusercontent.com/NobyDa/Script/mas
 *************************
 
 [task_local]
+
+// 原来作者配置
 0 8 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bahamut/BahamutDailyBonus.js, tag=巴哈姆特签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/bahamutGame.png
+// 个人修改配置：每天 00：05 开始执行签到任务
+5 0 * * * https://raw.githubusercontent.com/Parantric/InterestQxScript/master/tasks/BahamutDailyBonus.js, tag=巴哈姆特签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/bahamutGame.png
+
 
 ************************/
 
