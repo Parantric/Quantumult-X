@@ -23,5 +23,9 @@
             "name": "U.S.",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/colorful_flags/US.png"
         },
+        {
+            "name": "Proxy",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/functions/proxy.png"
+        },
     ]
 }
