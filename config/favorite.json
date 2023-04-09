@@ -31,5 +31,21 @@
             "name": "Static",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/functions/Static.png"
         },
+        {
+            "name": "WhatSapp",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/3721678-whatsapp_108065.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/google_icon_131222.png"
+        },
+        {
+            "name": "GoogleVoice",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/googlevoice.jpg"
+        },
+        {
+            "name": "Nexitally",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Nexitally.png"
+        },
     ]
 }
