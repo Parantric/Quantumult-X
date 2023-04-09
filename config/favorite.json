@@ -44,12 +44,8 @@
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/Nexitally.png"
         },
         {
-            "name": "GitHub_01",
+            "name": "GitHub",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/icon_github.png"
-        },
-        {
-            "name": "GitHub_02",
-            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/apps/github.png"
         },
     ]
 }
