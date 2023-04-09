@@ -27,5 +27,9 @@
             "name": "Proxy",
             "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/functions/proxy.png"
         },
+        {
+            "name": "Static",
+            "url": "https://raw.githubusercontent.com/Parantric/Quantumult-X/master/icons/functions/Static.png"
+        },
     ]
 }
