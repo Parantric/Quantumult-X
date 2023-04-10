@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/-Quantumult%20X%20%E8%87%AA%E7%94%A8-blue)
+
 <img src="https://raw.githubusercontent.com/Parantric/picture-bed/main/202304102110541.png"  />
 
 ## :white_check_mark: cron表达式
@@ -33,6 +35,10 @@
 [:cat: 个人 clash for window 自用仓库](https://github.com/Parantric/ACL4SSR)
 
 [:link: 圈 x 图标仓库 ✪✪✪](https://github.com/Parantric/mini)
+
+[🐶 GitHub 徽章生成网站](https://shields.io/category/test-results) eg:![](https://img.shields.io/badge/-GitHub%E5%BE%BD%E7%AB%A0%20Demo-orange)
+
+
 
 
 
