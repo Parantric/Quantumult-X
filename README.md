@@ -26,7 +26,7 @@
 
 ## 📑参考
 
- :file_folder:[Nexitally 自动生成规则](rules\nexitally) 
+ :file_folder:[Nexitally 自动生成规则](..\rules\nexitally) 
 
 :link:[圈 x 规则文件(更新很快)](https://github.com/Parantric/ios_rule_script/tree/master/rule/QuantumultX)
 
