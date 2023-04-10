@@ -1,8 +1,4 @@
-# 个人爱好
-
-------
-
-![](https://raw.githubusercontent.com/Parantric/picture-bed/main/202302282158720.png)
+# 个人爱好![](https://raw.githubusercontent.com/Parantric/picture-bed/main/202302282158720.png)
 
 ## :white_check_mark: cron表达式
 
@@ -25,3 +21,16 @@
 > **0 0-16/8 * * *        每天0点 8点 16点各一次**
 
 > **0 * * * *                 每1小时执行一次**
+
+---
+
+## 📑参考
+
+ :file_folder:[Nexitally 自动生成规则](rules\nexitally) 
+
+:link:[圈 x 规则文件(更新很快)](https://github.com/Parantric/ios_rule_script/tree/master/rule/QuantumultX)
+
+:link:[GitHub 正则表达式学习文档(超详细👍👍👍)](https://github.com/Parantric/learn-regex/blob/master/translations/README-cn.md)
+
+
+
