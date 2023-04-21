@@ -36,9 +36,9 @@
 
 [:link: 圈 x 图标仓库 ✪✪✪](https://github.com/Parantric/mini)
 
-[🐶 GitHub 徽章生成网站](https://shields.io/category/test-results) eg
+[🐶 GitHub 徽章生成网站](https://shields.io/category/test-results)
 
-
+:link: [圈 x 官方配置(主要是知道有哪些标签)](https://github.com/Parantric/Quantumult-X--/blob/master/sample.conf)
 
 
 
