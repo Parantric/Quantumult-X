@@ -38,7 +38,7 @@
 
 [🐶 GitHub 徽章生成网站](https://shields.io/category/test-results)
 
-:link: [圈 x 官方配置(主要是知道有哪些标签)](https://github.com/Parantric/Quantumult-X--/blob/master/sample.conf)
+:link: [圈 x 官方配置(主要是知道有哪些标签)](https://github.com/Parantric/Quantumult-X-Official/blob/master/sample-my.conf)
 
 
 
