@@ -1,0 +1,6 @@
+# 阿里网盘 获取 Cookie 
+; 获取之后关闭该条重写规则
+
+^https:\/\/auth.aliyundrive.com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
+
+hostname = auth.aliyundrive.com
